@@ -1,5 +1,5 @@
 Copyright (C) BRIGUET Systems, Inc - All Rights Reserved
-# JGraphTheory
+# [JGraphTheory](https://github.com/josephbriguet01/JGraphTheory "Accès au projet Git JGraphTheory")
 
 ### Introduction
 
@@ -111,3 +111,5 @@ L'inverse est vrai également:
 ```java
 Matrix m = l.getMatrix();
 ```
+
+## Accès au projet GitHub => [ici](https://github.com/josephbriguet01/JGraphTheory "Accès au projet Git JGraphTheory")
